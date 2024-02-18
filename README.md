@@ -1,4 +1,34 @@
+pkg upgrade
 
+pkg install git
+
+pkg install python
+
+pip install requests
+
+pip install mechanize
+
+pip install bs4
+
+pip install lolcat
+
+pip install futures
+
+pip install rich
+
+rm -rf Facebook_auto_share
+
+git clone https://github.com/SK-BAAP-786/Facebook_auto_share.git
+
+cd Facebook_auto_share
+
+git pull
+
+python Fb_Auto_share.py
+
+-------------------------------
+
+hello dosto enjoy all fb fytr cammand
 
 
 
