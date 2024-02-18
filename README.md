@@ -24,7 +24,7 @@ cd Facebook_auto_share
 
 git pull
 
-python Fb_Auto_share.py
+python Fb-Auto_share.py
 
 -------------------------------
 
